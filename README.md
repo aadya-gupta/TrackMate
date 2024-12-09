@@ -41,7 +41,9 @@ Here is a sneak-peek into the upcoming features in TrackMate:
 ## Installation
 
 > git clone https://github.com/aadya-gupta/TrackMate
+>
 > pip install -r requirements.txt
+>
 > python find.py
 
 ## Note
