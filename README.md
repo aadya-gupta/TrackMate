@@ -19,7 +19,7 @@ The project is designed to showcase **DSA (Dijkstra's Algorithm)** implementatio
 3. Choose whether to prioritize time or price. 
 4. View the calculated path and the distance. 
 
-<img src="terminal.png" alt="user input" width="300" height="300">
+<img src="terminal.png" alt="user input" width="600" height="300">
 <img src="highlighted_path.png" alt="Path visual" width="450" height="300"> 
 
 ## Tech Stack
