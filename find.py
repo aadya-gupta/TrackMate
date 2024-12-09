@@ -29,7 +29,7 @@ def main():
 
         choice = input("\nDo you want to find another path? (yes/no): ").strip().lower()
         if choice != 'yes':
-            print("\nThank you for using the Metro Shortest Path Finder! Goodbye.")
+            print("\nThank you for using TrackMate! Have a safe journey!")
             break
 
 if __name__ == "__main__":
