@@ -5,6 +5,8 @@ from display import display_shortest_path
 def main():
     G = load_graph_from_csv("metro_stations.csv")
     station_list = list(G.nodes)
+    welcome = f"Welcome to TrackMate! Let me ease your travel planning today."
+    print(welcome)
 
     while True:
         source = input("\nEnter the starting station: ").strip().lower()
