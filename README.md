@@ -20,10 +20,10 @@ The project is designed to showcase **DSA (Dijkstra's Algorithm)** implementatio
 4. View the calculated path and the distance. 
 
 <img src="terminal.png" alt="user input" width="600" height="300">
-*Terminal when the program is running*
+Terminal when the program is running
 
 <img src="highlighted_path.png" alt="Path visual" width="600" height="450"> 
-*The shortest path is highlighted in red*
+The shortest path is highlighted in red
 
 ## Tech Stack
 TrackMate was built with the following technologies:
